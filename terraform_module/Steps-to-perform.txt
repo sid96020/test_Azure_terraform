@@ -1,0 +1,4 @@
+Steps :-
+1. create a new folder in desktop
+2. go inside that folder and right click and click open bash here (Open git bash in this directory)
+3. 
