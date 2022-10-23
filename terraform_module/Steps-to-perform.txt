@@ -1,4 +1,11 @@
 Steps :-
 1. create a new folder in desktop
 2. go inside that folder and right click and click open bash here (Open git bash in this directory)
-3. 
+3. git clone https://github.com/sid96020/test_Azure_terraform.git 
+4. run the ablove command in git bash
+5. go to dsktop you can see a folder link new_infra_clone(something like that) go inside it 
+6. go to modules then go to arm_landing_zone then go LDZ then gi inside any of the folder and copy provider.tf file
+7. past the provider.tf file inside each new terraform module whcih we recently cloned
+8. in the start menu search azure login or az login you can able to see a text file which contain all the az login commands
+9. run all commands sequently in each folder
+10. till destroy run all commands
